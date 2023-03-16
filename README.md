@@ -3,4 +3,4 @@
  It can be for a train or a plane
  
 ## Working on
-I 'm now working on that you can safe diverent vehicles in a csv file, and can change the ammount of total seats on the tour.
+I 'm now working on that you can safe diverent vehicles in a csv file, and can change the ammount of total seats on the tour. And that you can change the list of the passengers on the plane.
